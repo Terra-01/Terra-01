@@ -4,7 +4,7 @@ Terra-01
 
   <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&center=true&width=450&lines=Hello%2C+I+am+Shivam+Singh.;Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&center=true&width=450&lines=Hello%2C+I+am+Shivam+Singh.;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 <p>
   
