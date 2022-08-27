@@ -62,7 +62,7 @@ I'm an upcoming software developer from India. Presently, I am a student at SRM 
 <a href="https://www.linkedin.com/in/shivam91s/">
   <img align="left" alt="Terra's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
+<a href="https://discordapp.com/users/Terra#5293/">
   <img align="left" alt="Terra's Discord" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://terra01.vercel.app/">
