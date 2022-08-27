@@ -1,6 +1,8 @@
 <h1 align="center">
-Terra-01
+Terra
+<p>
 
+![Currently Coding](https://raw.githubusercontent.com/Terra-01/Google_Style_Sliding_Text/main/GSSTg.gif)
 
   <h2 align="center">
     
