@@ -68,3 +68,16 @@ I'm an upcoming software developer from India. Presently, I am a student at SRM 
 <a href="https://terra01.vercel.app/">
   <img align="left" alt="Terra's Discord" width="40px" src="https://raw.githubusercontent.com/github/explore/2a2c984d5ec9cd3edd54fa36e13d7f6fd6d4cf72/topics/chromium/chromium.png" />
 </a>
+    
+<p>
+    
+ 
+    
+**| Snake Eating the Contributions ¯\ _(ツ)_ /¯**
+    
+![Snake animation](https://github.com/Terra-01/Terra-01/blob/output/github-contribution-grid-snake.svg)
+    
+    
+    
+    
+    
