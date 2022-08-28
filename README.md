@@ -52,15 +52,15 @@ You can call me Terra <img src="https://user-images.githubusercontent.com/130315
 ![Ipenywis's github stats](https://github-readme-stats1-nine.vercel.app/api?username=Terra-01&show_icons=true&count_private=true&theme=tokyonight&hide=prs)
 [![Top Langs](https://github-readme-stats1-nine.vercel.app/api/top-langs/?username=Terra-01&&langs_count=4&layout=compact&theme=tokyonight)](https://github-readme-stats1-nine.vercel.app/)
 -->
-<a href="https://google.com">
+<a href="https://youtu.be/t2KIHua_KdA">
   <img height="100%" src="https://github.com/Terra-01/Terra-01/blob/output/github-contribution-grid-snake.svg" />
 </a>   
 
-<a href="https://google.com">
+<a href="https://youtu.be/t2KIHua_KdA">
   <img height="155px" src="https://github-readme-stats1-nine.vercel.app/api?username=Terra-01&show_icons=true&count_private=true&theme=tokyonight&hide=prs" />
 </a>
 
-<a href="https://google.com">
+<a href="https://youtu.be/t2KIHua_KdA">
   <img height="155px" src="https://github-readme-stats1-nine.vercel.app/api/top-langs/?username=Terra-01&&langs_count=4&layout=compact&theme=tokyonight" />
 </a>
 </div>
