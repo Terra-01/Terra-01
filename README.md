@@ -8,7 +8,7 @@ You can call me Terra <img src="https://user-images.githubusercontent.com/130315
  
 ### I'm an upcoming software developer from India. Presently, I am a student at SRM Institute of Science and Technology. Acquiring new skills one by one, day by day. I have a strong passion that drives me to build useful and performant applications with great user experiences. I want to help the world. I enjoy eating noodles and sightseeing.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Terra-01/Terra-01/main/code.gif" height="230" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Terra-01/Terra-01/main/code.gif" height="200" />
 
 - ⚒️ Currently working on some personal projects.
 - 🌱 I'm on track with learning more about Machine Learning🦾 and Artificial Intelligence🤖.
