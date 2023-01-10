@@ -9,13 +9,6 @@ You can call me Terra <a href="https://terra-01.github.io/Click_Me/"><img src="h
   <img height="100px" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0080FB&center=true&width=435&lines=Hello%2C+I+am+Shivam+Singh.;Namaste.;Nice+to+meet+you!" />
 </a>
 
-<!--
-[![Currently Coding](https://raw.githubusercontent.com/Terra-01/Google_Style_Sliding_Text/main/GSSTg.gif)](https://www.youtube.com/watch?v=j8PxqgliIno)
-   
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0080FB&center=true&width=435&lines=Hello%2C+I+am+Shivam+Singh.;Namaste.;Nice+to+meet+you!)](https://www.youtube.com/watch?v=j8PxqgliIno)
--->
-
 </h1> 
  
 ### I'm an upcoming software developer from India. Presently, I am a student at SRM Institute of Science and Technology. Acquiring new skills one by one, day by day. I have a strong passion that drives me to build useful and performant applications with great user experiences. I want to help the world. I enjoy eating noodles and sightseeing.
@@ -34,48 +27,32 @@ You can call me Terra <a href="https://terra-01.github.io/Click_Me/"><img src="h
 
 <h2 align="left">
 
-**Languages and Tools: &nbsp;** <a href="#"><img height="35" src="https://github.com/Terra-01/Terra-01/blob/main/Assets/javascript.svg"></a>
-<a href="#"><img height="45" src="https://github.com/Terra-01/Terra-01/blob/main/Assets/nodejs.svg"></a>
-<a href="#"><img height="45" src="https://github.com/Terra-01/Terra-01/blob/main/Assets/html5.svg"></a>
-<a href="#"><img height="45" src="https://github.com/Terra-01/Terra-01/blob/main/Assets/css3.svg"></a>
+**Languages and Tools: &nbsp;** <a href="#"><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
+<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"></a>
+<a href="#"><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></a>
+<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
+<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
 <a href="#"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></a>
 <a href="#"><img height="35" src="https://pytorch.org/assets/images/pytorch-logo.png"></a>
-<a href="#"><img height="35" src="https://github.com/Terra-01/Terra-01/blob/main/Assets/cplusplus.svg"></a>
-<a href="#"><img height="35" src="https://github.com/Terra-01/Terra-01/blob/main/Assets/python.svg"></a>
-<a href="#"><img height="35" src="https://github.com/Terra-01/Terra-01/blob/main/Assets/mysql.svg"></a>
-<a href="#"><img height="35" src="https://github.com/Terra-01/Terra-01/blob/main/Assets/docker.svg"></a>
-<a href="#"><img height="35" src="https://github.com/Terra-01/Terra-01/blob/main/Assets/git.svg"></a>
-<a href="#"><img height="35" src="https://github.com/Terra-01/Terra-01/blob/main/Assets/bash.svg"></a>
-<a href="#"><img height="35" src="https://github.com/Terra-01/Terra-01/blob/main/Assets/vscode.svg"></a>
+<a href="#"><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></a>
+<a href="#"><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
+<a href="#"><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></a>
+<a href="#"><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"></a>
+<a href="#"><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
+<a href="#"><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></a>
+<a href="#"><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
 
     
 **Lets Connect : &nbsp;** <a href="https://www.instagram.com/terra_shivam/">
-<img alt="Terra's Instagram" height="35px" src="https://github.com/Terra-01/Terra-01/blob/main/Assets/instagram-hollow.svg" /></a>
-<a href="mailto:thisisshivam@icloud.com"><img alt="Terra's Mail" height="35px" src="https://github.com/Terra-01/Terra-01/blob/main/Assets/envelop-purple.svg" /></a>
-<a href="https://www.linkedin.com/in/shivam91s/"><img alt="Terra's LinkedIN" height="35px" src="https://github.com/Terra-01/Terra-01/blob/main/Assets/linkedin.svg" /></a>
-<a href="https://discordapp.com/users/Terra#5293/"><img alt="Terra's Discord" height="35px" src="https://github.com/Terra-01/Terra-01/blob/main/Assets/discord.svg" /></a>
-<a href="https://terra01.vercel.app/"><img alt="Terra's Discord" height="35px" src="https://github.com/Terra-01/Terra-01/blob/main/Assets/earth.svg" /></a>
+<img alt="Terra's Instagram" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" /></a>
+<a href="mailto:thisisshivam@icloud.com"><img alt="Terra's Mail" height="35px" src="https://www.svgrepo.com/show/241788/email-mail.svg" /></a>
+<a href="https://www.linkedin.com/in/shivam91s/"><img alt="Terra's LinkedIN" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://discordapp.com/users/Terra#5293/"><img alt="Terra's Discord" height="35px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" /></a>
+<a href="https://terra01.vercel.app/"><img alt="Terra's Website" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" /></a>
 </h2>
 
 <div align="center">
 
-<!--
-![Snake animation](https://github.com/Terra-01/Terra-01/blob/output/github-contribution-grid-snake.svg)
-  
-![Ipenywis's github stats](https://github-readme-stats1-nine.vercel.app/api?username=Terra-01&show_icons=true&count_private=true&theme=tokyonight&hide=prs)
-[![Top Langs](https://github-readme-stats1-nine.vercel.app/api/top-langs/?username=Terra-01&&langs_count=4&layout=compact&theme=tokyonight)](https://github-readme-stats1-nine.vercel.app/)
--->
-<a href="#">
-  <img height="100%" src="https://github.com/Terra-01/Terra-01/blob/output/github-contribution-grid-snake.svg" />
-</a>   
-
-<a href="#">
-  <img height="155px" src="https://github-readme-stats1-nine.vercel.app/api?username=Terra-01&show_icons=true&count_private=true&theme=tokyonight&hide=prs" />
-</a>
-
-<a href="#">
-  <img height="155px" src="https://github-readme-stats1-nine.vercel.app/api/top-langs/?username=Terra-01&&langs_count=4&layout=compact&theme=tokyonight" />
-</a>
 </div>
 
     $ Have you found the easter egg?
