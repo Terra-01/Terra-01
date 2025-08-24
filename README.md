@@ -8,9 +8,6 @@
   <a href="https://terra01.dev">
     <img src="https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/Terra-01/">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/shivam91s/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
