@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="44" height="44" role="img" aria-label="Portfolio" style="--d: 5.0s; display: block">
+<style>
+@keyframes draw{to{stroke-dashoffset:0}}
+.ink *{stroke-dasharray:80;stroke-dashoffset:80;animation:draw 1.1s cubic-bezier(.5,0,.3,1) var(--d) forwards}
+@keyframes pop{0%{transform:scale(0)}70%{transform:scale(1.35)}100%{transform:scale(1)}}
+.spot,.spot-line{transform-box:fill-box;transform-origin:center;transform:scale(0);animation:pop .5s cubic-bezier(.3,1.6,.5,1) calc(var(--d) + .8s) forwards}
+@keyframes nod{0%,86%,100%{transform:rotate(0)}90%{transform:rotate(-8deg)}95%{transform:rotate(6deg)}}
+.wig{transform-origin:24px 24px;animation:nod 6s ease-in-out calc(var(--d) + 2s) infinite}
+@media (prefers-reduced-motion: reduce){.ink *,.spot,.spot-line,.wig{animation:none!important;stroke-dashoffset:0;transform:none}}
+</style>
+<filter id="wob-portfolio-light" x="-10%" y="-10%" width="120%" height="120%"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="1" seed="7" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="0.9" xChannelSelector="R" yChannelSelector="G"/></filter>
+<g class="wig"><g transform="translate(6 6) scale(1.5)" filter="url(#wob-portfolio-light)" style="fill: none; stroke: #1f2328; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round">
+<g class="ink"><rect x="5" y="5.6" width="14" height="9.6" rx="1.4"/><path d="M3 18.2h18l-1.4-3H4.4z"/></g>
+<g style="fill: #3aa86a; stroke: none"><path class="spot-line" style="fill: none; stroke: #3aa86a; stroke-width: 2" d="M9.6 10.4l1.6 1.4 3-3"/></g>
+</g></g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="44" height="44" role="img" aria-label="LinkedIn" style="--d: 4.6s; display: block">
+<style>
+@keyframes draw{to{stroke-dashoffset:0}}
+.ink *{stroke-dasharray:80;stroke-dashoffset:80;animation:draw 1.1s cubic-bezier(.5,0,.3,1) var(--d) forwards}
+@keyframes pop{0%{transform:scale(0)}70%{transform:scale(1.35)}100%{transform:scale(1)}}
+.spot,.spot-line{transform-box:fill-box;transform-origin:center;transform:scale(0);animation:pop .5s cubic-bezier(.3,1.6,.5,1) calc(var(--d) + .8s) forwards}
+@keyframes nod{0%,86%,100%{transform:rotate(0)}90%{transform:rotate(-8deg)}95%{transform:rotate(6deg)}}
+.wig{transform-origin:24px 24px;animation:nod 6s ease-in-out calc(var(--d) + 2s) infinite}
+@media (prefers-reduced-motion: reduce){.ink *,.spot,.spot-line,.wig{animation:none!important;stroke-dashoffset:0;transform:none}}
+</style>
+<filter id="wob-linkedin-dark" x="-10%" y="-10%" width="120%" height="120%"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="1" seed="7" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="0.9" xChannelSelector="R" yChannelSelector="G"/></filter>
+<g class="wig"><g transform="translate(6 6) scale(1.5)" filter="url(#wob-linkedin-dark)" style="fill: none; stroke: #e6edf3; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round">
+<g class="ink"><rect x="3.6" y="3.6" width="16.8" height="16.8" rx="3.4"/><path d="M8 10.6v5.6M11.5 16.2v-5.6M11.5 13c0-1.5 1-2.5 2.4-2.5s2.3 1 2.3 2.6v3.1"/></g>
+<g style="fill: #4a86e8; stroke: none"><circle class="spot" cx="8" cy="7.9" r="1.05"/></g>
+</g></g>
+</svg>
